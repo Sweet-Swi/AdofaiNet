@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace AdofaiNet.Server
 {
-    public class Main
-    {
-        public Main()
-        {
-
-        }
-    }
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+			new Main();
+		}
+	}
 }
