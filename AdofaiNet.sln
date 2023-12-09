@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdofaiNet", "AdofaiNet\AdofaiNet.csproj", "{8AD0861E-D681-4F00-A207-0D111E479857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdofaiNet.Server", "AdofaiNetServer\AdofaiNet.Server.csproj", "{7E5FB2F5-02DA-46E8-BA0D-1A5874CABFD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdofaiNet.Server", "AdofaiNet.Server\AdofaiNet.Server.csproj", "{7E5FB2F5-02DA-46E8-BA0D-1A5874CABFD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
